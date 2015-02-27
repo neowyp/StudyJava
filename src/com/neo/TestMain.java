@@ -38,7 +38,7 @@ public class TestMain {
 		/*
 		 * wypsmall sec
 		 */
-		
+		//wyp
 		System.out.println("wypsmall");
 		System.out.println("neo"); // 
 	}
