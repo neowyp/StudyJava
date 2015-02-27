@@ -40,6 +40,7 @@ public class TestMain {
 		 */
 		
 		System.out.println("wypsmall");
+		System.out.println("neo"); // 
 	}
 	
 
