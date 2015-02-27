@@ -38,6 +38,8 @@ public class TestMain {
 		/*
 		 * wypsmall sec
 		 */
+		
+		System.out.println("wypsmall");
 	}
 	
 
