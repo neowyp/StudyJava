@@ -7,8 +7,6 @@
  */
 package com.neo;
 
-import java.util.Date;
-
 /** 
  * desc:
  * <p>创建人：wangyunpeng 创建日期：2015年2月27日下午1:56:25</p>
@@ -22,7 +20,8 @@ public class TestMain {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("" + new Date());
+		// TODO Auto-generated method stub
+
 	}
 
 }
